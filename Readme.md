@@ -33,3 +33,7 @@ Use Case
   l.	Sterilisasi Mainan dan Peralatan
 
 ![alt text](https://github.com/xlavix/Daycare-Farhan/blob/main/use%20case.png)
+
+![alt text](https://github.com/xlavix/Daycare-Farhan/blob/main/ERD.png)
+
+![alt text](https://github.com/xlavix/Daycare-Farhan/blob/main/class%20diagram.png)
