@@ -31,3 +31,5 @@ Use Case
   j.	Berkomunikasi dengan Orang Tua/Wali
   k.	Membersihkan Fasilitas
   l.	Sterilisasi Mainan dan Peralatan
+
+![alt text](https://github.com/xlavix/Daycare-Farhan/blob/main/use%20case.png)
